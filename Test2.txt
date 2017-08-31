@@ -2,3 +2,5 @@ This is the second file to add.
 
 I want to keep this change
 aswell as this change!
+
+A new change
